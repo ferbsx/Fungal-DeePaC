@@ -9,6 +9,7 @@ thesis.
 If there is more than one source for one label, the sources are presented as `[source 1], [source 2]`, otherwise they are simply written without brackets `source`.
 
 ## Data collection:
+- `NCBI-collectDownloadLinks.py`: python script goes through the csv file and collects the download links. It then produces an output bash file which has a `wget` command with every ftp download link.
 
 ## Read Simulation:
 
