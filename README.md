@@ -29,6 +29,7 @@ There has been some changes as we added the logarithmic proportional read simula
 ## RC-CNN model training:
 - `preproc_config_training.ini`: an example of the configuration files used to pre-process the input data for the model. (Turn `.fasta` into `.npy` files.) To run this file, a DeePaC command, eg: `deepac preproc preproc_config_training.ini` needs to run.
 - `fungi-all-log-cnn-edt26.ini`: an example of the configuration files used to train RC-CNN. This one is from our best performing RC-CNN (the file includes all the details, such as which data files, architecture, hyperparameter setting were used.). To train a model, the following command needs to be used: `deepac train -c fungi-all-log-cnn-edt26.ini` (for run-time details, the command can be preceded with `time `).
+For more examples and descriptions, please look into the DeePaC tool [1] (documentation: https://rki_bioinformatics.gitlab.io/DeePaC/)
 
 ## Evaluating our best-performing RC-CNN:
 
