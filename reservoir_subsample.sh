@@ -1,0 +1,4 @@
+bioawk -c fastx -v k=125000 '{y=x++<k?x-1:int(rand()*x);if(y<k)a[y]=">"$name"\n"$seq}END{for(z in a)print a[z]}' val-neg-log-all.fasta > val-neg-log-sub.fasta
+bioawk -c fastx -v k=125000 '{y=x++<k?x-1:int(rand()*x);if(y<k)a[y]=">"$name"\n"$seq}END{for(z in a)print a[z]}' val-pos-log-all.fasta > val-pos-log-sub.fasta
+bioawk -c fastx -v k=1000000 '{y=x++<k?x-1:int(rand()*x);if(y<k)a[y]=">"$name"\n"$seq}END{for(z in a)print a[z]}' train-pos-log-all.fasta > train-pos-log-sub.fasta
+bioawk -c fastx -v k=1000000 '{y=x++<k?x-1:int(rand()*x);if(y<k)a[y]=">"$name"\n"$seq}END{for(z in a)print a[z]}' train-neg-log-all.fasta > train-neg-log-sub.fasta
