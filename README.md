@@ -1,8 +1,8 @@
 # Fungal-DeePaC
-code and supplementary materials for my Master's thesis
+**code and supplementary materials for my Master's thesis**
 
-Here, I will explain the order in which the files in this repository were used to produce the results shown in my Master 
-thesis.
+In this file, I will explain the order in which the files in this repository were used to produce the results shown in my Master 
+thesis. As the data files are rather large and reproducible using the following files, we do not upload them. If you would like to have certain data files, please don't hesitate to reach out to me (via email: <ferdousnasri@zedat.fu-berlin.de>). I will gladly provide them.
 
 ## Fungal metadata:
 - `allFungalMetadata.csv`: This is a large table with 982 fungal species names, along with their label and the source of that label. The species with publicly available genomes (471) have more information.
@@ -52,6 +52,7 @@ For more examples and descriptions, please look into the DeePaC tool [1] (docume
 - `training-fungi-all-log-cnn-edt26.csv`: CSV file with the training and validation results produced by DeePaC after every training epoch of our best RC-CNN model.
 - `Blast_ReadByRead_AllTrainingGenomes.csv`: csv file produced by `BlastPerformance.R`.
 - `Blast_Species_test_paired_AllTrainingGenomes.csv`: csv file produced by `BlastSpecies.R`.
+
 
 ### References:
 [1]: Jakub M Bartoszewicz, Anja Seidel, Robert Rentzsch, Bernhard Y Renard, DeePaC: predicting pathogenic potential of novel DNA with reverse-complement neural networks, Bioinformatics, Volume 36, Issue 1, 1 January 2020, Pages 81–89, https://doi.org/10.1093/bioinformatics/btz541
