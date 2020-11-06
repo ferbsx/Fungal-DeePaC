@@ -33,6 +33,7 @@ There has been some changes as we added the logarithmic proportional read simula
 For more examples and descriptions, please look into the DeePaC tool [1] (documentation: https://rki_bioinformatics.gitlab.io/DeePaC/, other examples: https://gitlab.com/dacs-hpi/deepac/-/tree/master/deepac/builtin/config)
 
 ## Evaluating our best-performing RC-CNN:
+- `sortDownsampledFasta.py`: python file which sorts downsamplaed fasta files by species and counts the number of reads per species (needed for DeePaC evaluation on downsampled data).
 - `f-all-eval-testpaired.ini`: configuration file used to evaluate single and paired-test reads. To run the evaluation, the following command needs to run: `deepac eval -r f-all-eval-testpaired.ini`.
 - `f-all-eval-species-testpaired.ini`: configuration file used to run a species-based evaluation of the paired-test reads. To run the evaluation, the following command needs to run: `deepac eval -s f-all-eval-species-testpaired.ini`.
 
