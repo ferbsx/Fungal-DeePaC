@@ -47,8 +47,10 @@ For more examples and descriptions, please look into the DeePaC tool [1] (docume
 
 ## Results:
 - `allModelConfigsAndResults.xlsx`: excel file where each column represents one trained model. The configurations of that model are noted and at the bottom the results from that training round.
-- 
-
+- `nn-fungi-all-log-cnn-edt26-metrics.xlsx`: excel file including all the evaluation results run on different epochs and sets on our best RC-CNN files.
+- `training-fungi-all-log-cnn-edt26.csv`: CSV file with the training and validation results produced by DeePaC after every training epoch of our best RC-CNN model.
+- `Blast_ReadByRead_AllTrainingGenomes.csv`: csv file produced by `BlastPerformance.R`.
+- `Blast_Species_test_paired_AllTrainingGenomes.csv`: csv file produced by `BlastSpecies.R`.
 
 ### References:
 [1]: Jakub M Bartoszewicz, Anja Seidel, Robert Rentzsch, Bernhard Y Renard, DeePaC: predicting pathogenic potential of novel DNA with reverse-complement neural networks, Bioinformatics, Volume 36, Issue 1, 1 January 2020, Pages 81–89, https://doi.org/10.1093/bioinformatics/btz541
