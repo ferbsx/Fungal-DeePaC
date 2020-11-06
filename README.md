@@ -32,6 +32,8 @@ There has been some changes as we added the logarithmic proportional read simula
 For more examples and descriptions, please look into the DeePaC tool [1] (documentation: https://rki_bioinformatics.gitlab.io/DeePaC/)
 
 ## Evaluating our best-performing RC-CNN:
+- `f-all-eval-testpaired.ini`: configuration file used to evaluate single and paired-test reads. To run the evaluation, the following command needs to run: `deepac eval -r f-all-eval-testpaired.ini`.
+- `f-all-eval-species-testpaired.ini`: configuartion file used to run a species-based evaluation of the paired-test reads. To run the evaluation, the following command needs to run: `deepac eval -s f-all-eval-species-testpaired.ini`.
 
 ## running and comparing with BLAST:
 - `findTaxIdForBlastInGenomes.py`:
