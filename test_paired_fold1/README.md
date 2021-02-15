@@ -1,0 +1,2 @@
+### Paired test files
+This folder contains the paired test read `*.fa` files. The `Blast` sub-folder contains the `*.blast` and `*_matched.rds` files produced from running `BlastComparisonK.R` on these fasta files.
