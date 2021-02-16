@@ -1,0 +1,243 @@
+[1] "New run on Mon Oct 12 09:30:53 2020"
+[1] "Processing item 1 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000002495.2_MG8_genomic_2.fa"
+[1] "Processing item 2 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000002655.1_ASM265v1_genomic_2.fa"
+[1] "Processing item 3 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000003835.1_ASM383v1_genomic_2.fa"
+[1] "Processing item 4 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000149985.1_ASM14998v1_genomic_2.fa"
+[1] "Processing item 5 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000182965.3_ASM18296v3_genomic_2.fa"
+[1] "Processing item 6 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000203795.1_v1.0_genomic_2.fa"
+[1] "Processing item 7 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000209485.1_ASM20948v1_genomic_2.fa"
+[1] "Processing item 8 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000219625.1_MYCGR_v2.0_genomic_2.fa"
+[1] "Processing item 9 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000222935.2_AciTa_1.0_genomic_2.fa"
+[1] "Processing item 10 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000240135.3_ASM24013v3_genomic_2.fa"
+[1] "Processing item 11 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000340195.1_Dothistroma_septosporum_NZE10_v1.0_genomic_2.fa"
+[1] "Processing item 12 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000442885.1_ZYBA0_genomic_2.fa"
+[1] "Processing item 13 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000697255.1_MucRacB9645-1.0_genomic_2.fa"
+[1] "Processing item 14 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000723665.1_454Minimus_genomic_2.fa"
+[1] "Processing item 15 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000732125.1_ScApio1.0_genomic_2.fa"
+[1] "Processing item 16 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000738655.1_ASM73865v1_genomic_2.fa"
+[1] "Processing item 17 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000812075.1_ASM81207v1_genomic_2.fa"
+[1] "Processing item 18 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000820605.1_S_brasiliensis_5110_v1_genomic_2.fa"
+[1] "Processing item 19 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000836435.1_Fons_mult_CBS_102226_V1_genomic_2.fa"
+[1] "Processing item 20 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_000952775.2_ASM95277v2_genomic_2.fa"
+[1] "Processing item 21 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_001046915.1_ASM104691v1_genomic_2.fa"
+[1] "Processing item 22 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_001191545.1_ASM119154v1_genomic_2.fa"
+[1] "Processing item 23 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_001268145.1_vl1.denovo.v1_genomic_2.fa"
+[1] "Processing item 24 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_001445595.3_Rnecatrix_2.0_genomic_2.fa"
+[1] "Processing item 25 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_001466705.1_ASM146670v1_genomic_2.fa"
+[1] "Processing item 26 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_001600775.1_JCM_11348_assembly_v001_genomic_2.fa"
+[1] "Processing item 27 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_001752625.1_ASM175262v1_genomic_2.fa"
+[1] "Processing item 28 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_001890125.1_Aspve1_genomic_2.fa"
+[1] "Processing item 29 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_002081935.3_Kretzschmaria_deusta_v3_genomic_2.fa"
+[1] "Processing item 30 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_002157005.1_ASM215700v1_genomic_2.fa"
+[1] "Processing item 31 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_002286855.1_ASM228685v1_genomic_2.fa"
+[1] "Processing item 32 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_002632455.2_ASM263245v2_genomic_2.fa"
+[1] "Processing item 33 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_002952155.1_ASM295215v1_genomic_2.fa"
+[1] "Processing item 34 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_003016335.1_Corynespora_cassiicola_v1.0_genomic_2.fa"
+[1] "Processing item 35 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_003025115.1_Trici_v4.0_genomic_2.fa"
+[1] "Processing item 36 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_003025255.1_ASM302525v1_genomic_2.fa"
+[1] "Processing item 37 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_003144125.1_Tescy1_genomic_2.fa"
+[1] "Processing item 38 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_003285555.1_ASM328555v1_genomic_2.fa"
+[1] "Processing item 39 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_003671545.1_ASM367154v1_genomic_2.fa"
+[1] "Processing item 40 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_003850985.1_Aawm_assembly01_genomic_2.fa"
+[1] "Processing item 41 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_004335055.1_Bfabae_DLY-16-612_genomic_2.fa"
+[1] "Processing item 42 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_004919595.1_Kodohm_148_genomic_2.fa"
+[1] "Processing item 43 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_007896495.1_ASM789649v1_genomic_2.fa"
+[1] "Processing item 44 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_008692225.1_ASM869222v1_genomic_2.fa"
+[1] "Processing item 45 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_008704605.1_ASM870460v1_genomic_2.fa"
+[1] "Processing item 46 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_009428275.1_AAFC_TLATCC42080_1_genomic_2.fa"
+[1] "Processing item 47 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_009938135.1_ASM993813v1_genomic_2.fa"
+[1] "Processing item 48 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/test_paired_fold1/GCA_010883475.1_ASM1088347v1_genomic_2.fa"
+[1] "Blast alignment took 2027.46525 min"
+[1] "---Finito"
+[1] "Processing file 1"
+[1] TRUE
+[1] "Processing file 2"
+[1] TRUE
+[1] "Processing file 3"
+[1] TRUE
+[1] "Processing file 4"
+[1] TRUE
+[1] "Processing file 5"
+[1] TRUE
+[1] "Processing file 6"
+[1] TRUE
+[1] "Processing file 7"
+[1] TRUE
+[1] "Processing file 8"
+[1] TRUE
+[1] "Processing file 9"
+[1] TRUE
+[1] "Processing file 10"
+[1] TRUE
+[1] "Processing file 11"
+[1] TRUE
+[1] "Processing file 12"
+[1] TRUE
+[1] "Processing file 13"
+[1] TRUE
+[1] "Processing file 14"
+[1] TRUE
+[1] "Processing file 15"
+[1] TRUE
+[1] "Processing file 16"
+[1] TRUE
+[1] "Processing file 17"
+[1] TRUE
+[1] "Processing file 18"
+[1] TRUE
+[1] "Processing file 19"
+[1] TRUE
+[1] "Processing file 20"
+[1] TRUE
+[1] "Processing file 21"
+[1] TRUE
+[1] "Processing file 22"
+[1] TRUE
+[1] "Processing file 23"
+[1] TRUE
+[1] "Processing file 24"
+[1] TRUE
+[1] "Processing file 25"
+[1] TRUE
+[1] "Processing file 26"
+[1] TRUE
+[1] "Processing file 27"
+[1] TRUE
+[1] "Processing file 28"
+[1] TRUE
+[1] "Processing file 29"
+[1] TRUE
+[1] "Processing file 30"
+[1] TRUE
+[1] "Processing file 31"
+[1] TRUE
+[1] "Processing file 32"
+[1] TRUE
+[1] "Processing file 33"
+[1] TRUE
+[1] "Processing file 34"
+[1] TRUE
+[1] "Processing file 35"
+[1] TRUE
+[1] "Processing file 36"
+[1] TRUE
+[1] "Processing file 37"
+[1] TRUE
+[1] "Processing file 38"
+[1] TRUE
+[1] "Processing file 39"
+[1] TRUE
+[1] "Processing file 40"
+[1] TRUE
+[1] "Processing file 41"
+[1] TRUE
+[1] "Processing file 42"
+[1] TRUE
+[1] "Processing file 43"
+[1] TRUE
+[1] "Processing file 44"
+[1] TRUE
+[1] "Processing file 45"
+[1] TRUE
+[1] "Processing file 46"
+[1] TRUE
+[1] "Processing file 47"
+[1] TRUE
+[1] "Blast Analysis took 2.55116666666654 min"
+[1] "Processing file 1"
+[1] TRUE
+[1] "Processing file 2"
+[1] TRUE
+[1] "Processing file 3"
+[1] TRUE
+[1] "Processing file 4"
+[1] TRUE
+[1] "Processing file 5"
+[1] TRUE
+[1] "Processing file 6"
+[1] TRUE
+[1] "Processing file 7"
+[1] TRUE
+[1] "Processing file 8"
+[1] TRUE
+[1] "Processing file 9"
+[1] TRUE
+[1] "Processing file 10"
+[1] TRUE
+[1] "Processing file 11"
+[1] TRUE
+[1] "Processing file 12"
+[1] TRUE
+[1] "Processing file 13"
+[1] TRUE
+[1] "Processing file 14"
+[1] TRUE
+[1] "Processing file 15"
+[1] TRUE
+[1] "Processing file 16"
+[1] TRUE
+[1] "Processing file 17"
+[1] TRUE
+[1] "Processing file 18"
+[1] TRUE
+[1] "Processing file 19"
+[1] TRUE
+[1] "Processing file 20"
+[1] TRUE
+[1] "Processing file 21"
+[1] TRUE
+[1] "Processing file 22"
+[1] TRUE
+[1] "Processing file 23"
+[1] TRUE
+[1] "Processing file 24"
+[1] TRUE
+[1] "Processing file 25"
+[1] TRUE
+[1] "Processing file 26"
+[1] TRUE
+[1] "Processing file 27"
+[1] TRUE
+[1] "Processing file 28"
+[1] TRUE
+[1] "Processing file 29"
+[1] TRUE
+[1] "Processing file 30"
+[1] TRUE
+[1] "Processing file 31"
+[1] TRUE
+[1] "Processing file 32"
+[1] TRUE
+[1] "Processing file 33"
+[1] TRUE
+[1] "Processing file 34"
+[1] TRUE
+[1] "Processing file 35"
+[1] TRUE
+[1] "Processing file 36"
+[1] TRUE
+[1] "Processing file 37"
+[1] TRUE
+[1] "Processing file 38"
+[1] TRUE
+[1] "Processing file 39"
+[1] TRUE
+[1] "Processing file 40"
+[1] TRUE
+[1] "Processing file 41"
+[1] TRUE
+[1] "Processing file 42"
+[1] TRUE
+[1] "Processing file 43"
+[1] TRUE
+[1] "Processing file 44"
+[1] TRUE
+[1] "Processing file 45"
+[1] TRUE
+[1] "Processing file 46"
+[1] TRUE
+[1] "Processing file 47"
+[1] TRUE
+[1] "Processing file 48"
+[1] TRUE
+[1] "Blast Analysis took 2.01033333333132 min"
