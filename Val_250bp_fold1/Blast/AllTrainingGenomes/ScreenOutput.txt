@@ -1,0 +1,568 @@
+[1] "New run on Mon Aug 17 17:17:37 2020"
+[1] "Processing item 1 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000001985.1_JCVI-PMFA1-2.0_genomic.fa"
+[1] "Processing item 2 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000150705.2_Paracocci_br_Pb01_V2_genomic.fa"
+[1] "Processing item 3 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000151525.2_P_triticina_1_1_V2_genomic.fa"
+[1] "Processing item 4 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000182765.2_ASM18276v2_genomic.fa"
+[1] "Processing item 5 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000187405.1_MetAcr_May2010_genomic.fa"
+[1] "New run on Mon Aug 17 17:22:23 2020"
+[1] "Processing item 1 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000001985.1_JCVI-PMFA1-2.0_genomic.fa"
+[1] "Processing item 2 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000150705.2_Paracocci_br_Pb01_V2_genomic.fa"
+[1] "Processing item 3 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000151525.2_P_triticina_1_1_V2_genomic.fa"
+[1] "Processing item 4 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000182765.2_ASM18276v2_genomic.fa"
+[1] "Processing item 5 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000187405.1_MetAcr_May2010_genomic.fa"
+[1] "Processing item 6 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000226545.1_ASM22654v1_genomic.fa"
+[1] "Processing item 7 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000230625.1_Exop_derm_V1_genomic.fa"
+[1] "Processing item 8 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000280675.1_ASM28067v1_genomic.fa"
+[1] "Processing item 9 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000300595.1_Phanerochaete_carnosa_HHB-10118-Sp_v1.0_genomic.fa"
+[1] "Processing item 10 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000301015.1_CfCabog12_genomic.fa"
+[1] "Processing item 11 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000530345.1_HBR18v1_genomic.fa"
+[1] "Processing item 12 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_000945115.1_Lramosa_hybrid_454_Illumina_genomic.fa"
+[1] "Processing item 13 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001010845.1_ASM101084v1_genomic.fa"
+[1] "Processing item 14 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001373355.1_SPOSA68321A01_genomic.fa"
+[1] "Processing item 15 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001445615.1_Alt_assembly01_genomic.fa"
+[1] "Processing item 16 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001477545.1_Pneu_cari_B80_V3_genomic.fa"
+[1] "Processing item 17 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001563125.1_CSAL01_genomic.fa"
+[1] "Processing item 18 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001599515.1_JCM_11502_assembly_v001_genomic.fa"
+[1] "Processing item 19 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001624995.1_ASM162499v1_genomic.fa"
+[1] "Processing item 20 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001636715.1_AAP_1.0_genomic.fa"
+[1] "Processing item 21 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001651435.1_CMCC_F_T3l_genomic.fa"
+[1] "Processing item 22 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001661405.1_Cybja1_genomic.fa"
+[1] "Processing item 23 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001752645.1_ASM175264v1_genomic.fa"
+[1] "Processing item 24 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001883825.1_Emmo_past_UAMH9510_V1_genomic.fa"
+[1] "Processing item 25 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001890705.1_Aspsy1_genomic.fa"
+[1] "Processing item 26 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001937105.1_ASM193710v1_genomic.fa"
+[1] "Processing item 27 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001950535.1_JCM_22607_assembly_v001_genomic.fa"
+[1] "Processing item 28 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_001975905.1_Dipser_v1_genomic.fa"
+[1] "Processing item 29 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_002249775.1_ASM224977v1_genomic.fa"
+[1] "Processing item 30 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_002994015.1_CNIC01_genomic.fa"
+[1] "Processing item 31 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_003012285.1_Fusarium_longipes_NRRL20695_FLONG3_contigs_genomic.fa"
+[1] "Processing item 32 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_003012315.1_Fusarium_sporotrichioides_NRRL3299_FSPOR_contigs_genomic.fa"
+[1] "Processing item 33 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_003116955.1_JCM_9939_assembly_v001_genomic.fa"
+[1] "Processing item 34 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_003385255.1_ASM338525v1_genomic.fa"
+[1] "Processing item 35 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_003671625.1_ASM367162v1_genomic.fa"
+[1] "Processing item 36 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_003705465.1_ASM370546v1_genomic.fa"
+[1] "Processing item 37 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_003795295.1_ASM379529v1_genomic.fa"
+[1] "Processing item 38 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_003947045.1_NRRL20438v1_genomic.fa"
+[1] "Processing item 39 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_004354395.1_ASM435439v1_genomic.fa"
+[1] "Processing item 40 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_004380915.1_ASM438091v1_genomic.fa"
+[1] "Processing item 41 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_007896445.1_ASM789644v1_genomic.fa"
+[1] "Processing item 42 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_009914735.1_ASM991473v1_genomic.fa"
+[1] "Processing item 43 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_010577765.1_ASM1057776v1_genomic.fa"
+[1] "Processing item 44 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_011750755.1_ASM1175075v1_genomic.fa"
+[1] "Processing item 45 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_900074895.1_version_1_genomic.fa"
+[1] "Processing item 46 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_900092665.1_ERS1230299_genomic.fa"
+[1] "Processing item 47 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_900175165.2_FCH_5_7_genomic.fa"
+[1] "Processing item 48 : /home/nasrif/SCRATCH_NOBAK/logSimulation/benchmarkSub/Val_250bp_fold1/GCA_900290465.1_IMI_genomic.fa"
+[1] "Blast alignment took 41.42245 min"
+[1] "---Finito"
+[1] "Processing file 1"
+[1] TRUE
+[1] "Processing file 2"
+[1] TRUE
+[1] "Processing file 3"
+[1] TRUE
+[1] "Processing file 4"
+[1] TRUE
+[1] "Processing file 5"
+[1] TRUE
+[1] "Processing file 6"
+[1] TRUE
+[1] "Processing file 7"
+[1] TRUE
+[1] "Processing file 8"
+[1] TRUE
+[1] "Processing file 9"
+[1] TRUE
+[1] "Processing file 10"
+[1] TRUE
+[1] "Processing file 11"
+[1] TRUE
+[1] "Processing file 12"
+[1] TRUE
+[1] "Processing file 13"
+[1] TRUE
+[1] "Processing file 14"
+[1] TRUE
+[1] "Processing file 15"
+[1] TRUE
+[1] "Processing file 16"
+[1] TRUE
+[1] "Processing file 17"
+[1] TRUE
+[1] "Processing file 18"
+[1] TRUE
+[1] "Processing file 19"
+[1] TRUE
+[1] "Processing file 20"
+[1] TRUE
+[1] "Processing file 21"
+[1] TRUE
+[1] "Processing file 22"
+[1] TRUE
+[1] "Processing file 23"
+[1] TRUE
+[1] "Processing file 24"
+[1] TRUE
+[1] "Processing file 25"
+[1] TRUE
+[1] "Processing file 26"
+[1] TRUE
+[1] "Processing file 27"
+[1] TRUE
+[1] "Processing file 28"
+[1] TRUE
+[1] "Processing file 29"
+[1] TRUE
+[1] "Processing file 30"
+[1] TRUE
+[1] "Processing file 31"
+[1] TRUE
+[1] "Processing file 32"
+[1] TRUE
+[1] "Processing file 33"
+[1] TRUE
+[1] "Processing file 34"
+[1] TRUE
+[1] "Processing file 35"
+[1] TRUE
+[1] "Processing file 36"
+[1] TRUE
+[1] "Processing file 37"
+[1] TRUE
+[1] "Processing file 38"
+[1] TRUE
+[1] "Processing file 39"
+[1] TRUE
+[1] "Processing file 40"
+[1] TRUE
+[1] "Processing file 41"
+[1] TRUE
+[1] "Processing file 42"
+[1] TRUE
+[1] "Processing file 43"
+[1] TRUE
+[1] "Processing file 44"
+[1] TRUE
+[1] "Processing file 45"
+[1] TRUE
+[1] "Processing file 46"
+[1] TRUE
+[1] "Processing file 47"
+[1] TRUE
+[1] "Processing file 48"
+[1] TRUE
+[1] "Blast Analysis took 0.178783333333331 min"
+[1] "Processing file 1"
+[1] TRUE
+[1] "Processing file 2"
+[1] TRUE
+[1] "Processing file 3"
+[1] TRUE
+[1] "Processing file 4"
+[1] TRUE
+[1] "Processing file 5"
+[1] TRUE
+[1] "Processing file 6"
+[1] TRUE
+[1] "Processing file 7"
+[1] TRUE
+[1] "Processing file 8"
+[1] TRUE
+[1] "Processing file 9"
+[1] TRUE
+[1] "Processing file 10"
+[1] TRUE
+[1] "Processing file 11"
+[1] TRUE
+[1] "Processing file 12"
+[1] TRUE
+[1] "Processing file 13"
+[1] TRUE
+[1] "Processing file 14"
+[1] TRUE
+[1] "Processing file 15"
+[1] TRUE
+[1] "Processing file 16"
+[1] TRUE
+[1] "Processing file 17"
+[1] TRUE
+[1] "Processing file 18"
+[1] TRUE
+[1] "Processing file 19"
+[1] TRUE
+[1] "Processing file 20"
+[1] TRUE
+[1] "Processing file 21"
+[1] TRUE
+[1] "Processing file 22"
+[1] TRUE
+[1] "Processing file 23"
+[1] TRUE
+[1] "Processing file 24"
+[1] TRUE
+[1] "Processing file 25"
+[1] TRUE
+[1] "Processing file 26"
+[1] TRUE
+[1] "Processing file 27"
+[1] TRUE
+[1] "Processing file 28"
+[1] TRUE
+[1] "Processing file 29"
+[1] TRUE
+[1] "Processing file 30"
+[1] TRUE
+[1] "Processing file 31"
+[1] TRUE
+[1] "Processing file 32"
+[1] TRUE
+[1] "Processing file 33"
+[1] TRUE
+[1] "Processing file 34"
+[1] TRUE
+[1] "Processing file 35"
+[1] TRUE
+[1] "Processing file 36"
+[1] TRUE
+[1] "Processing file 37"
+[1] TRUE
+[1] "Processing file 38"
+[1] TRUE
+[1] "Processing file 39"
+[1] TRUE
+[1] "Processing file 40"
+[1] TRUE
+[1] "Processing file 41"
+[1] TRUE
+[1] "Processing file 42"
+[1] TRUE
+[1] "Processing file 43"
+[1] TRUE
+[1] "Processing file 44"
+[1] TRUE
+[1] "Processing file 45"
+[1] TRUE
+[1] "Processing file 46"
+[1] TRUE
+[1] "Processing file 47"
+[1] TRUE
+[1] "Processing file 48"
+[1] TRUE
+[1] "Blast Analysis took 0.1 min"
+ [1] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000001985.1_JCVI-PMFA1-2.0_genomic.blast"                                  
+ [2] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000150705.2_Paracocci_br_Pb01_V2_genomic.blast"                            
+ [3] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000151525.2_P_triticina_1_1_V2_genomic.blast"                              
+ [4] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000182765.2_ASM18276v2_genomic.blast"                                      
+ [5] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000187405.1_MetAcr_May2010_genomic.blast"                                  
+ [6] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000226545.1_ASM22654v1_genomic.blast"                                      
+ [7] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000230625.1_Exop_derm_V1_genomic.blast"                                    
+ [8] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000280675.1_ASM28067v1_genomic.blast"                                      
+ [9] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000300595.1_Phanerochaete_carnosa_HHB-10118-Sp_v1.0_genomic.blast"         
+[10] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000301015.1_CfCabog12_genomic.blast"                                       
+[11] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000530345.1_HBR18v1_genomic.blast"                                         
+[12] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_000945115.1_Lramosa_hybrid_454_Illumina_genomic.blast"                     
+[13] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001010845.1_ASM101084v1_genomic.blast"                                     
+[14] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001373355.1_SPOSA68321A01_genomic.blast"                                   
+[15] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001445615.1_Alt_assembly01_genomic.blast"                                  
+[16] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001477545.1_Pneu_cari_B80_V3_genomic.blast"                                
+[17] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001563125.1_CSAL01_genomic.blast"                                          
+[18] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001599515.1_JCM_11502_assembly_v001_genomic.blast"                         
+[19] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001624995.1_ASM162499v1_genomic.blast"                                     
+[20] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001636715.1_AAP_1.0_genomic.blast"                                         
+[21] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001651435.1_CMCC_F_T3l_genomic.blast"                                      
+[22] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001661405.1_Cybja1_genomic.blast"                                          
+[23] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001752645.1_ASM175264v1_genomic.blast"                                     
+[24] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001883825.1_Emmo_past_UAMH9510_V1_genomic.blast"                           
+[25] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001890705.1_Aspsy1_genomic.blast"                                          
+[26] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001937105.1_ASM193710v1_genomic.blast"                                     
+[27] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001950535.1_JCM_22607_assembly_v001_genomic.blast"                         
+[28] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_001975905.1_Dipser_v1_genomic.blast"                                       
+[29] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_002249775.1_ASM224977v1_genomic.blast"                                     
+[30] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_002994015.1_CNIC01_genomic.blast"                                          
+[31] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_003012285.1_Fusarium_longipes_NRRL20695_FLONG3_contigs_genomic.blast"      
+[32] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_003012315.1_Fusarium_sporotrichioides_NRRL3299_FSPOR_contigs_genomic.blast"
+[33] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_003116955.1_JCM_9939_assembly_v001_genomic.blast"                          
+[34] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_003385255.1_ASM338525v1_genomic.blast"                                     
+[35] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_003671625.1_ASM367162v1_genomic.blast"                                     
+[36] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_003705465.1_ASM370546v1_genomic.blast"                                     
+[37] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_003795295.1_ASM379529v1_genomic.blast"                                     
+[38] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_003947045.1_NRRL20438v1_genomic.blast"                                     
+[39] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_004354395.1_ASM435439v1_genomic.blast"                                     
+[40] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_004380915.1_ASM438091v1_genomic.blast"                                     
+[41] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_007896445.1_ASM789644v1_genomic.blast"                                     
+[42] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_009914735.1_ASM991473v1_genomic.blast"                                     
+[43] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_010577765.1_ASM1057776v1_genomic.blast"                                    
+[44] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_011750755.1_ASM1175075v1_genomic.blast"                                    
+[45] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_900074895.1_version_1_genomic.blast"                                       
+[46] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_900092665.1_ERS1230299_genomic.blast"                                      
+[47] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_900175165.2_FCH_5_7_genomic.blast"                                         
+[48] "C:/Users/ferdous.nasri/share/ubuntuVM/MA_fungi_deepac/data/benchmarkData/Val_250bp_fold1/Blast/AllTrainingGenomes/GCA_900290465.1_IMI_genomic.blast"                                             
+[1] "Processing file 1"
+[1] TRUE
+[1] "Processing file 2"
+[1] TRUE
+[1] "Processing file 3"
+[1] TRUE
+[1] "Processing file 4"
+[1] TRUE
+[1] "Processing file 5"
+[1] TRUE
+[1] "Processing file 6"
+[1] TRUE
+[1] "Processing file 7"
+[1] TRUE
+[1] "Processing file 8"
+[1] TRUE
+[1] "Processing file 9"
+[1] TRUE
+[1] "Processing file 10"
+[1] TRUE
+[1] "Processing file 11"
+[1] TRUE
+[1] "Processing file 12"
+[1] TRUE
+[1] "Processing file 13"
+[1] TRUE
+[1] "Processing file 14"
+[1] TRUE
+[1] "Processing file 15"
+[1] TRUE
+[1] "Processing file 16"
+[1] TRUE
+[1] "Processing file 17"
+[1] TRUE
+[1] "Processing file 18"
+[1] TRUE
+[1] "Processing file 19"
+[1] TRUE
+[1] "Processing file 20"
+[1] TRUE
+[1] "Processing file 21"
+[1] TRUE
+[1] "Processing file 22"
+[1] TRUE
+[1] "Processing file 23"
+[1] TRUE
+[1] "Processing file 24"
+[1] TRUE
+[1] "Processing file 25"
+[1] TRUE
+[1] "Processing file 26"
+[1] TRUE
+[1] "Processing file 27"
+[1] TRUE
+[1] "Processing file 28"
+[1] TRUE
+[1] "Processing file 29"
+[1] TRUE
+[1] "Processing file 30"
+[1] TRUE
+[1] "Processing file 31"
+[1] TRUE
+[1] "Processing file 32"
+[1] TRUE
+[1] "Processing file 33"
+[1] TRUE
+[1] "Processing file 34"
+[1] TRUE
+[1] "Processing file 35"
+[1] TRUE
+[1] "Processing file 36"
+[1] TRUE
+[1] "Processing file 37"
+[1] TRUE
+[1] "Processing file 38"
+[1] TRUE
+[1] "Processing file 39"
+[1] TRUE
+[1] "Processing file 40"
+[1] TRUE
+[1] "Processing file 41"
+[1] TRUE
+[1] "Processing file 42"
+[1] TRUE
+[1] "Processing file 43"
+[1] TRUE
+[1] "Processing file 44"
+[1] TRUE
+[1] "Processing file 45"
+[1] TRUE
+[1] "Processing file 46"
+[1] TRUE
+[1] "Processing file 47"
+[1] TRUE
+[1] "Processing file 48"
+[1] TRUE
+[1] "Blast Analysis took 0.310166666666434 min"
+[1] "Processing file 1"
+[1] TRUE
+[1] "Processing file 2"
+[1] TRUE
+[1] "Processing file 3"
+[1] TRUE
+[1] "Processing file 4"
+[1] TRUE
+[1] "Processing file 5"
+[1] TRUE
+[1] "Processing file 6"
+[1] TRUE
+[1] "Processing file 7"
+[1] TRUE
+[1] "Processing file 8"
+[1] TRUE
+[1] "Processing file 9"
+[1] TRUE
+[1] "Processing file 10"
+[1] TRUE
+[1] "Processing file 11"
+[1] TRUE
+[1] "Processing file 12"
+[1] TRUE
+[1] "Processing file 13"
+[1] TRUE
+[1] "Processing file 14"
+[1] TRUE
+[1] "Processing file 15"
+[1] TRUE
+[1] "Processing file 16"
+[1] TRUE
+[1] "Processing file 17"
+[1] TRUE
+[1] "Processing file 18"
+[1] TRUE
+[1] "Processing file 19"
+[1] TRUE
+[1] "Processing file 20"
+[1] TRUE
+[1] "Processing file 21"
+[1] TRUE
+[1] "Processing file 22"
+[1] TRUE
+[1] "Processing file 23"
+[1] TRUE
+[1] "Processing file 24"
+[1] TRUE
+[1] "Processing file 25"
+[1] TRUE
+[1] "Processing file 26"
+[1] TRUE
+[1] "Processing file 27"
+[1] TRUE
+[1] "Processing file 28"
+[1] TRUE
+[1] "Processing file 29"
+[1] TRUE
+[1] "Processing file 30"
+[1] TRUE
+[1] "Processing file 31"
+[1] TRUE
+[1] "Processing file 32"
+[1] TRUE
+[1] "Processing file 33"
+[1] TRUE
+[1] "Processing file 34"
+[1] TRUE
+[1] "Processing file 35"
+[1] TRUE
+[1] "Processing file 36"
+[1] TRUE
+[1] "Processing file 37"
+[1] TRUE
+[1] "Processing file 38"
+[1] "Processing file 1"
+[1] TRUE
+[1] "Processing file 2"
+[1] TRUE
+[1] "Processing file 3"
+[1] TRUE
+[1] "Processing file 4"
+[1] TRUE
+[1] "Processing file 5"
+[1] TRUE
+[1] "Processing file 6"
+[1] TRUE
+[1] "Processing file 7"
+[1] TRUE
+[1] "Processing file 8"
+[1] TRUE
+[1] "Processing file 9"
+[1] TRUE
+[1] "Processing file 10"
+[1] TRUE
+[1] "Processing file 11"
+[1] TRUE
+[1] "Processing file 12"
+[1] TRUE
+[1] "Processing file 13"
+[1] TRUE
+[1] "Processing file 14"
+[1] TRUE
+[1] "Processing file 15"
+[1] TRUE
+[1] "Processing file 16"
+[1] TRUE
+[1] "Processing file 17"
+[1] TRUE
+[1] "Processing file 18"
+[1] TRUE
+[1] "Processing file 19"
+[1] TRUE
+[1] "Processing file 20"
+[1] TRUE
+[1] "Processing file 21"
+[1] TRUE
+[1] "Processing file 22"
+[1] TRUE
+[1] "Processing file 23"
+[1] TRUE
+[1] "Processing file 24"
+[1] TRUE
+[1] "Processing file 25"
+[1] TRUE
+[1] "Processing file 26"
+[1] TRUE
+[1] "Processing file 27"
+[1] TRUE
+[1] "Processing file 28"
+[1] TRUE
+[1] "Processing file 29"
+[1] TRUE
+[1] "Processing file 30"
+[1] TRUE
+[1] "Processing file 31"
+[1] TRUE
+[1] "Processing file 32"
+[1] TRUE
+[1] "Processing file 33"
+[1] TRUE
+[1] "Processing file 34"
+[1] TRUE
+[1] "Processing file 35"
+[1] TRUE
+[1] "Processing file 36"
+[1] TRUE
+[1] "Processing file 37"
+[1] TRUE
+[1] "Processing file 38"
+[1] TRUE
+[1] "Processing file 39"
+[1] TRUE
+[1] "Processing file 40"
+[1] TRUE
+[1] "Processing file 41"
+[1] TRUE
+[1] "Processing file 42"
+[1] TRUE
+[1] "Processing file 43"
+[1] TRUE
+[1] "Processing file 44"
+[1] TRUE
+[1] "Processing file 45"
+[1] TRUE
+[1] "Processing file 46"
+[1] TRUE
+[1] "Processing file 47"
+[1] TRUE
+[1] "Processing file 48"
+[1] TRUE
+[1] "Blast Analysis took 0.107666666666531 min"
