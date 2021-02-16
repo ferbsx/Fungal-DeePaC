@@ -46,13 +46,14 @@ For more examples and descriptions, please look into the DeePaC tool [1] (docume
 - `BlastPerformance.R`: R script which calculates read-by-read performance of BLAST on single and paired test reads. This script was copied (and slightly modified to fit our data) from the published work from J. Bartoszewicz in DeePac paper [1] (openly available: https://gitlab.com/dacs-hpi/deepac/-/tree/master/supplement_paper/Rscripts/comparative).
 - `BlastSpecies.R`: R script which calculates the species-based performance of BLASt on paired test reads. This script was copied (and slightly modified to fit our data) from the published work from J. Bartoszewicz in DeePac paper [1] (openly available: https://gitlab.com/dacs-hpi/deepac/-/tree/master/supplement_paper/Rscripts/comparative).
 - `./test_paired_fold1/Blast/*`: This folder includes all the files produced by running the `BlastComparisonK.R` on the paired-test data-set (not including the library Blast creates from the training genomes).
+- `./Val_250bp_fold1/Blast/*`: This folder includes all the files produced by running the `BlastComparisonK.R` on the validation data-set (not including the library Blast creates from the training genomes).
 
 ## Results:
 - `allModelConfigsAndResults.xlsx`: excel file where each column represents one trained model. The configurations of that model are noted and at the bottom the results from that training round.
 - `nn-fungi-all-log-cnn-edt26-metrics.xlsx`: excel file including all the evaluation results run on different epochs and sets on our best RC-CNN files.
-- `training-fungi-all-log-cnn-edt26.csv`: CSV file with the training and validation results produced by DeePaC after every training epoch of our best RC-CNN model.
-- `Blast_ReadByRead_AllTrainingGenomes.csv`: csv file produced by `BlastPerformance.R`.
-- `Blast_Species_test_paired_AllTrainingGenomes.csv`: csv file produced by `BlastSpecies.R`.
+- `training-fungi-all-log-cnn-edt26.csv`: csv file with the training and validation results produced by DeePaC after every training epoch of our best RC-CNN model.
+- `./test_paired_fold1/Blast/Blast_ReadByRead_AllTrainingGenomes.csv`: csv file produced by `BlastPerformance.R`.
+- `./test_paired_fold1/Blast/Blast_Species_test_paired_AllTrainingGenomes.csv`: csv file produced by `BlastSpecies.R`.
 
 
 ### References:
